@@ -20,7 +20,7 @@
 
 ## 📚 Education
 
-- Bachelor of Technology (B.Tech) in [Your Major] - JNTU Hyderabad University, 2022
+- Bachelor of Technology (B.Tech) in [Your Major] - JNTU Hyderabad University, 2016
 
 ## 🌱 Interests
 
@@ -30,8 +30,7 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
 - IG: [Your IG Name](link-to-ig)
-- FB: [Your FB Name]([link-to-fb](https://www.facebook.com/profile.php?id=61554357963017))
-- Twitter: [Your Twitter Handle](link-to-twitter)
+- FB: [Your FB Name]([link-to-fb](https://www.facebook.com/profile.php?id=61554357963017)
 
 ## 🌐 Online Presence
 
